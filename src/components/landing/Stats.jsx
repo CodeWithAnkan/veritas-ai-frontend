@@ -66,7 +66,7 @@ export function CTASection() {
                        px-10 py-4 font-medium hover:bg-gold-2 transition-colors">
             OPEN DASHBOARD
           </button>
-          <a href="https://github.com" target="_blank" rel="noreferrer"
+          <a href="https://github.com/CodeWithAnkan/veritas-ai-frontend" target="_blank" rel="noreferrer"
             className="font-mono text-[11px] tracking-[1px] text-text-2
                        border border-border-2 px-8 py-4
                        hover:border-border-2/80 hover:text-text transition-colors">

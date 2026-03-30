@@ -21,7 +21,7 @@ export default function Nav() {
           { label: 'DASHBOARD', to: '/dashboard' },
           { label: 'SEARCH',    to: '/search'    },
           { label: 'METHODOLOGY', to: '/#methodology' },
-          { label: 'GITHUB',    to: 'https://github.com', external: true },
+          { label: 'GITHUB',    to: 'https://github.com/CodeWithAnkan/veritas-ai-frontend', external: true },
         ].map(({ label, to, external }) => (
           external
             ? <a key={label} href={to} target="_blank" rel="noreferrer"
