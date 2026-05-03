@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://veritas-ai-api.onrender.com/:path*"
+      "destination": "https://veritas-backend-k6yb7ualiq-uc.a.run.app/:path*"
     },
     {
       "source": "/(.*)",
